@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\bin\Debug\DAL.dll.config
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.Migrations.initDb.resources
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.Migrations.ReviewWatch.resources
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.Migrations.UserChange.resources
+C:\Users\Lenovo\Desktop\.NET\Code-Practise\MovieDatabase\DAL\obj\Debug\DAL.Migrations.Tokendb.resources

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDatabase", "MovieDatabase\MovieDatabase.csproj", "{358C81CB-0501-44E5-9EBB-5BDE896B7193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{C6B9F475-9F0D-45BB-B234-A52C01E8836B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{86D4C42B-26DC-471E-9711-B2C582590724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{358C81CB-0501-44E5-9EBB-5BDE896B7193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358C81CB-0501-44E5-9EBB-5BDE896B7193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358C81CB-0501-44E5-9EBB-5BDE896B7193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358C81CB-0501-44E5-9EBB-5BDE896B7193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B9F475-9F0D-45BB-B234-A52C01E8836B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B9F475-9F0D-45BB-B234-A52C01E8836B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B9F475-9F0D-45BB-B234-A52C01E8836B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B9F475-9F0D-45BB-B234-A52C01E8836B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D4C42B-26DC-471E-9711-B2C582590724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D4C42B-26DC-471E-9711-B2C582590724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D4C42B-26DC-471E-9711-B2C582590724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D4C42B-26DC-471E-9711-B2C582590724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AC45AC8-7E8A-4DB5-8876-EDCC7797C95A}
+	EndGlobalSection
+EndGlobal
